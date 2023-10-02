@@ -22,11 +22,6 @@ const AllProducts = () => {
         <h1 className="text-center text-3xl lg:text-4xl font-bold py-10">
           All Products
         </h1>
-        <Link href="/seller/products/create-a-product">
-          <h4 className="text-center text-lg text-blue-500 hover:underline font-bold py-10">
-            Create A Product
-          </h4>
-        </Link>
       </div>
 
       <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-5">
